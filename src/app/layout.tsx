@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio Website",
-  description: "Portfolio profissional desenvolvido com Next.js e Tailwind CSS",
+  title: "Portfólio Matheus Vieira",
+  description: "Portfólio profissional de Matheus Vieira",
 };
 
 export default function RootLayout({
