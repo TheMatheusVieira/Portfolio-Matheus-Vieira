@@ -30,7 +30,7 @@ export function Skills() {
   ];
 
   return (
-    <section id="habilidades" className="py-20 px-4 bg-gray-900/30">
+    <section id="habilidades" className="py-20 px-4">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold mb-4 text-center">
           Minhas <span className="text-orange-500">habilidades</span>

@@ -26,7 +26,7 @@ export function Education() {
   ];
 
   return (
-    <section id="formacao" className="py-20 px-4">
+    <section id="formacao" className="py-20 px-4 bg-gray-900/30">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold mb-4 text-center">
           Formação <span className="text-orange-500">acadêmica</span>

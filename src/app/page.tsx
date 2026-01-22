@@ -6,6 +6,7 @@ import { Education } from "@/components/Education";
 import { Skills } from "@/components/Skills";
 import { Projects } from "@/components/Projects";
 import { Interests } from "@/components/Interests";
+import { Portfolio } from "@/components/Portfolio";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
 
@@ -17,9 +18,10 @@ export default function Home() {
       <main>
         <Hero />
         <About />
-        <Experience />
         <Education />
         <Skills />
+        <Experience />
+        <Portfolio />
         <Projects />
         <Interests />
         <Contact />

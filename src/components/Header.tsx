@@ -13,6 +13,7 @@ export function Header() {
     { label: "Formação", href: "#formacao" },
     { label: "Habilidades", href: "#habilidades" },
     { label: "Projetos", href: "#projetos" },
+    { label: "Portfólio", href: "#portfolio" },
     { label: "Interesses", href: "#interesses" },
     { label: "Contato", href: "#contato" }
   ];
@@ -27,7 +28,7 @@ export function Header() {
           </a>
           
           {/* Desktop Menu */}
-          <nav className="hidden md:flex items-center gap-8">
+          <nav className="hidden md:flex items-center gap-10">
             {menuItems.map((item, index) => (
               <a
                 key={index}
