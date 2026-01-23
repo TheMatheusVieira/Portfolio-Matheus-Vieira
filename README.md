@@ -21,13 +21,13 @@ Este projeto foi construído com as tecnologias mais modernas do ecossistema Rea
 - **Modo Escuro**: Interface moderna com tema escuro por padrão.
 - **Animações Suaves**: Transições e efeitos visuais para melhor experiência do usuário.
 - **Seções Detalhadas**:
-  - Hero (Apresentação)
-  - Sobre Mim
-  - Experiência Profissional
-  - Formação Acadêmica
-  - Habilidades Técnicas
-  - Projetos em Destaque
-  - Interesses Pessoais
+  - Apresentação
+  - Sobre mim
+  - Experiência profissional
+  - Formação acadêmica
+  - Habilidades técnicas
+  - Projetos em destaque
+  - Interesses pessoais
   - Contato
 
 ## 📦 Como Executar o Projeto
